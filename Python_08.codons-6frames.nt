@@ -1,0 +1,36 @@
+geneA-forward-frame-1
+ATG CGT ATG CCC GTT AGC
+geneA-forward-frame-2
+TGC GTA TGC CCG TTA
+geneA-forward-frame-3
+GCG TAT GCC CGT TAG
+geneA-reverse-frame-1
+GCT AAC GGG CAT ACG CAT
+geneA-reverse-frame-2
+CTA ACG GGC ATA CGC
+geneA-reverse-frame-3
+TAA CGG GCA TAC GCA
+geneB-forward-frame-1
+TTG ACG TTT AAA CGC GTT
+geneB-forward-frame-2
+TGA CGT TTA AAC GCG
+geneB-forward-frame-3
+GAC GTT TAA ACG CGT
+geneB-reverse-frame-1
+AAC GCG TTT AAA CGT CAA
+geneB-reverse-frame-2
+ACG CGT TTA AAC GTC
+geneB-reverse-frame-3
+CGC GTT TAA ACG TCA
+geneC-forward-frame-1
+ATT TGC CCG GGA ATT AAA
+geneC-forward-frame-2
+TTT GCC CGG GAA TTA
+geneC-forward-frame-3
+TTG CCC GGG AAT TAA
+geneC-reverse-frame-1
+TTT AAT TCC CGG GCA AAT
+geneC-reverse-frame-2
+TTA ATT CCC GGG CAA
+geneC-reverse-frame-3
+TAA TTC CCG GGC AAA
