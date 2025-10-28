@@ -16,3 +16,9 @@ geneC-frame-2-codons
 TTT GCC CGG GAA TTA
 geneC-frame-3-codons
 TTG CCC GGG AAT TAA
+test_ORF-frame-1-codons
+AAA CCC ATG AAA CCC GGG TAA AGG
+test_ORF-frame-2-codons
+AAC CCA TGA AAC CCG GGT AAA
+test_ORF-frame-3-codons
+ACC CAT GAA ACC CGG GTA AAG

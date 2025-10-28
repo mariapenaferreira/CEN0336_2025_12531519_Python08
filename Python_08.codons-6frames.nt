@@ -34,3 +34,15 @@ geneC-reverse-frame-2
 TTA ATT CCC GGG CAA
 geneC-reverse-frame-3
 TAA TTC CCG GGC AAA
+test_ORF-forward-frame-1
+AAA CCC ATG AAA CCC GGG TAA AGG
+test_ORF-forward-frame-2
+AAC CCA TGA AAC CCG GGT AAA
+test_ORF-forward-frame-3
+ACC CAT GAA ACC CGG GTA AAG
+test_ORF-reverse-frame-1
+CCT TTA CCC GGG TTT CAT GGG TTT
+test_ORF-reverse-frame-2
+CTT TAC CCG GGT TTC ATG GGT
+test_ORF-reverse-frame-3
+TTT ACC CGG GTT TCA TGG GTT

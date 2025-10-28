@@ -34,3 +34,15 @@ FNSRAN
 LIPGQ
 >geneC-reverse-frame-3
 *FPGK
+>test_ORF-forward-frame-1
+KPMKPG*R
+>test_ORF-forward-frame-2
+NP*NPGK
+>test_ORF-forward-frame-3
+THETRVK
+>test_ORF-reverse-frame-1
+PLPGFHGF
+>test_ORF-reverse-frame-2
+LYPGFMG
+>test_ORF-reverse-frame-3
+FTRVSWV
